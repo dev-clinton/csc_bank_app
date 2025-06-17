@@ -1,4 +1,4 @@
-# mainapp.py is the streamlit UI that ties everything together
+#mainapp.py is the streamlit UI that ties everything together
 import streamlit as st
 import random
 
