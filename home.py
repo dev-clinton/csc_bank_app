@@ -1,4 +1,4 @@
-#this renders your landing page with bank name (C.O.D.E.) and feature cards
+ #this renders your landing page with bank name (C.O.D.E.) and feature cards
 import streamlit as st
 
 def render_home():
