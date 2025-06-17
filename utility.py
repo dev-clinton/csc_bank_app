@@ -1,4 +1,4 @@
-#This holds the base Bank Account classes(encapsulation, transaction history) and other helper functions
+#  This holds the base Bank Account classes(encapsulation, transaction history) and other helper functions
 import uuid
 import datetime
 import streamlit as st
